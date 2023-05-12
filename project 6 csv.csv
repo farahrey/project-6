@@ -1,0 +1,11 @@
+answer_to_q1,answer_to_q2,answer_to_q3,answer_to_q4,answer_to_q5,age,gender,occupation
+3,2,7,difference- denying feminism,no,21,female,data science intern
+5,7,8,difference-removing feminism,no,20,female,student
+7,8,5,difference-removing feminism,no,20,male,dental assistant
+3,4,3,difference-honoring feminism,no,19,female,student
+2,6,7,difference- denying feminism,no,20,male,student
+4,9,5,difference- denying feminism,yes,24,female,physician assistant
+3,4,6,difference-removing feminism,no,18,female,student
+2,7,4,difference-removing feminism,no,37,male,entrepreneur
+1,2,8,difference-honoring feminism,no,56,male,lawyer
+1,2,10,difference- denying feminism,yes,49,female,physician
